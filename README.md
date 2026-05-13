@@ -34,8 +34,8 @@ CSV file
 ## Setup
 
 ```bash
-git clone https://github.com/saketpol10/data-analyst
-cd data-analyst
+git clone https://github.com/saketpol10/datalens
+cd datalens
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env   # add your GROQ_API_KEY
