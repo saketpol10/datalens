@@ -1,4 +1,4 @@
-# Data Analyst
+# Datalens
 
 A CLI tool that takes any CSV file and produces a full data analysis report — automatically profiling the dataset with pandas, inferring its domain, and generating insights using an LLM.
 
